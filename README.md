@@ -1,1 +1,1 @@
-# Technocolabs1
+# Course 1 of prerequisite courses
